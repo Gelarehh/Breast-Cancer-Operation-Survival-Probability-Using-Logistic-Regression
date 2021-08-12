@@ -28,6 +28,7 @@ In the training process, the logistic function is applied to the multiplication 
 <li>Repeat the itteration from step 2</li>
 </ol>
 
-In order to minimize the cost, an optimization method, called **gradient descent** method is used.
+In order to minimize the cost, an optimization method, called **gradient descent** method is used. Therefore, step 5 can be done as follows:
+
 
 ## Dataset
