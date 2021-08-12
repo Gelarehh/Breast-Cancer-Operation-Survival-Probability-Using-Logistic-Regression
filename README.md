@@ -22,8 +22,10 @@ In the training process, the logistic function is applied to the multiplication 
 <ol>
 <li>Initialize <img src="https://latex.codecogs.com/svg.latex?\small&space;\theta"> </li>
 <li>Calculate <img src="https://latex.codecogs.com/svg.latex?\small&space;\sigma({{\theta}^T}x)"> </li>
-<li>Compare the outcome of step 2 with the actual lable and compute error </li>
-<li>Repeat steps 2 and 3 for all data samples and add up error</li>
+<li>Compare the outcome of step 2 with the actual lable and drive error </li>
+<li>Repeat steps 2 and 3 for all data samples and define a cost fuction as a function of errors</li>  
 <li>Change <img src="https://latex.codecogs.com/svg.latex?\small&space;\theta"> to reduce the cost</li>
 <li>Repeat the itteration from step 2</li>
 </ol>
+
+In order to minimize the cost, an optimization method, called **gradient descent** method is used.
