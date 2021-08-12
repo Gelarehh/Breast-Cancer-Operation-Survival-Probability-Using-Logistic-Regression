@@ -29,3 +29,5 @@ In the training process, the logistic function is applied to the multiplication 
 </ol>
 
 In order to minimize the cost, an optimization method, called **gradient descent** method is used.
+
+**Dataset**
