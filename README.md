@@ -19,4 +19,5 @@ In the training process, the logistic function is applied to the multiplication 
 </p>
 
 **Training Process**
-> 
+> Initializa \theta
+> Calculate <img src="https://latex.codecogs.com/svg.latex?\small&space;\sigma({{\theta}^T}x)" />
