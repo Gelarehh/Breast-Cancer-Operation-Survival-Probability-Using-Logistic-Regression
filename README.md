@@ -8,6 +8,9 @@ logistic function:
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;\sigma(x)=1/(1+exp(-x))" />
 
+In the training process, the logistic function is applied to the multiplication of the vector of parameters and X. Theta is also called the weights factor or confidences of the equation and X is the feature set.
+
+<img src="https://latex.codecogs.com/svg.latex?\small&space;\sigma({{\theta}^T}x)=1/(1+exp(-{{\theta}^T}x))" />
 
 <br/><br/>
 
@@ -15,3 +18,5 @@ logistic function:
   <img width="500" height="300" src="https://user-images.githubusercontent.com/66460485/129236247-45c3dc2d-634f-45e9-b935-a816138aadf7.png">
 </p>
 
+**Training Process**
+> 
