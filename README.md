@@ -29,7 +29,7 @@ In the training process, the logistic function is applied to the multiplication 
 </ol>
 
 In order to minimize the cost, an optimization method, called **gradient descent** method is used. Therefore, step 5 can be done as follows:
-<li>Compare the gradient of cost function </li>
-<li>Compare the outcome of step 2 with the actual lable and drive error </li>
+<li>Calculate the gradient vector of the cost function</li>
+<li>Update the weights using step 1 and a learning rate</li>
 
 ## Dataset
