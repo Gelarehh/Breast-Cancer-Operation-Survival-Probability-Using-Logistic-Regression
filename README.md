@@ -5,6 +5,6 @@ Logistic regression is a statistical method for analyzing a dataset in which the
 <br/><br/>
 
 <p align="center">
-  <img width="350" height="310" src="https://github.com/Gelarehh/Logistic-Regression/files/6977122/trans-ponisha.pdf">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/66460485/129236247-45c3dc2d-634f-45e9-b935-a816138aadf7.png">
 </p>
 
