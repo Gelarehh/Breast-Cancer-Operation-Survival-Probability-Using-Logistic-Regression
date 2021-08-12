@@ -4,7 +4,10 @@ Logistic regression is a statistical method for analyzing a dataset in which the
 
 The logistic function, also called the sigmoid function was developed by statisticians to describe properties of population growth in ecology, rising quickly and maxing out at the carrying capacity of the environment. It’s an S-shaped curve that can take any real-valued number and map it into a value between 0 and 1, but never exactly at those limits.
 
-1 / (1 + e^-value)
+logistic function: 
+
+<img src="https://latex.codecogs.com/svg.latex?\small&space;\sigma(x)=1/(1+exp(-x))" />
+
 
 <br/><br/>
 
