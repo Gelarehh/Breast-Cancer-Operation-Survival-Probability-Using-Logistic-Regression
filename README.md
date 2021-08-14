@@ -43,5 +43,5 @@ Dataset contains cases from study conducted on the survival of patients who had 
 <li>Survival status (class attribute)</li>
 </ol>
 
- 1 = the patient survived 5 years or longer
- 2 = the patient died within 5 year
+- 1 = the patient survived 5 years or longer
+- 2 = the patient died within 5 year
