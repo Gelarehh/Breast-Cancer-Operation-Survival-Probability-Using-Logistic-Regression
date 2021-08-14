@@ -33,3 +33,4 @@ In order to minimize the cost, an optimization method, called **gradient descent
 <li>Update the weights using step 1 and a learning rate</li>
 
 ## Dataset
+Dataset contains cases from study conducted on the survival of patients who had undergone surgery for breast cancer.
