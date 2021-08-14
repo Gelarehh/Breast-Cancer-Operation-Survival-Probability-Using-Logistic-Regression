@@ -34,3 +34,14 @@ In order to minimize the cost, an optimization method, called **gradient descent
 
 ## Dataset
 Dataset contains cases from study conducted on the survival of patients who had undergone surgery for breast cancer.
+> Attributes
+
+<ol>
+<li>Age of patient at time of operation (numerical) </li>
+<li>Patient's year of operation (year - 1900, numerical)</li>
+<li>Number of positive axillary nodes detected (numerical)</li>
+<li>Survival status (class attribute)</li>
+</ol>
+
+ 1 = the patient survived 5 years or longer
+ 2 = the patient died within 5 year
