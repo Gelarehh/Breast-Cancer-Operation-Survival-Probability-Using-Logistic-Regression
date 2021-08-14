@@ -40,7 +40,7 @@ Dataset contains cases from study conducted on the survival of patients who had 
 <li>Age of patient at time of operation (numerical) </li>
 <li>Patient's year of operation (year - 1900, numerical)</li>
 <li>Number of positive axillary nodes detected (numerical)</li>
-<li>Survival status (class attribute)</li>
+<li>Survival status, 1 or 2</li>
 </ol>
 
 - 1 = the patient survived 5 years or longer
